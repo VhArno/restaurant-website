@@ -1,9 +1,16 @@
 <template>
-  <section class="about">
+  <section class="container">
     <h1>Our menu</h1>
 
-    <div></div>
+    <div>
+      <p>Coming soon...</p>
+    </div>
   </section>
 </template>
 
-<style lang="css" scoped></style>
+<style lang="css" scoped>
+.container {
+  width: 80%;
+  margin: 2rem auto;
+}
+</style>

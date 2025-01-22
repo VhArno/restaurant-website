@@ -4,6 +4,9 @@
 
     <div>
       <p>Coming soon...</p>
+      <a href="https://linksphere.arnovanhee.ikdoeict.be/visualization"
+        >Kijk hoe een coole website!</a
+      >
     </div>
   </section>
 </template>
